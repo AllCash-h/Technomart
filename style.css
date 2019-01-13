@@ -2,7 +2,7 @@
     font-family: "Cuprum";
     src:
             local("Cuprum Regular"),
-            url("../Проект/fonts/Cuprum/cuprum.woff2") format("woff2");
+            url("../Technomart/fonts/Cuprum/cuprum.woff2") format("woff2");
             font-weight: normal;
             font-style: normal;
 }
@@ -10,7 +10,7 @@
     font-family: "Cuprum";
     src:
             local("Cuprum Bold"),
-            url("../Проект/fonts/Cuprum/cuprumbold.woff2") format("woff2");
+            url("../Technomart/fonts/Cuprum/cuprumbold.woff2") format("woff2");
             font-weight: bold;
             font-style: normal;
 }
@@ -18,7 +18,7 @@
     font-family: "Cuprum";
     src:
             local("Cuprum Bold Italic"),
-            url("../Проект/fonts/Cuprum/cuprumbolditalic.woff2") format("woff2");
+            url("../Technomart/fonts/Cuprum/cuprumbolditalic.woff2") format("woff2");
             font-weight: bold;
             font-style: italic;
 }
@@ -26,7 +26,7 @@
     font-family: "Cuprum";
     src:
             local("Cuprum Italic"),
-            url("../Проект/fonts/Cuprum/cuprumitalic.woff2") format("woff2");
+            url("../Technomart/fonts/Cuprum/cuprumitalic.woff2") format("woff2");
             font-weight: normal;
             font-style: italic;
 }
@@ -34,7 +34,7 @@
     font-family: "PTSans";
     src:
             local("PTSans"),
-            url("../Проект/fonts/PTSans/ptsans.woff2") format("woff2");
+            url("../Technomart/fonts/PTSans/ptsans.woff2") format("woff2");
             font-weight: normal;
             font-style: normal;
 }
@@ -42,7 +42,7 @@
     font-family: "PTSans";
     src:
             local("PTSans Bold"),
-            url("../Проект/fonts/PTSans/ptsansbold.woff2") format("woff2");
+            url("../Technomart/fonts/PTSans/ptsansbold.woff2") format("woff2");
             font-weight: bold;
             font-style: normal;
 }
